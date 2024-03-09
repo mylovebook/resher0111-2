@@ -1,0 +1,26 @@
+{
+"name": "resher011-2",
+"version": "1.0.0",
+"description": "Watch is your real-time cryptocurrency market observatory. From Bitcoin to Ethereum, we provide the latest price changes, trad",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mylovebook/resher0111-2.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mylovebook",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
